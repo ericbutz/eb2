@@ -250,7 +250,7 @@ footer p {
 
 /*=== 2.3 BANNER ===*/
 .banner-area {
-  background-image: url("../images/banner/banner.jpg");
+  background-image: url("../images/banner/banner.png");
   background-repeat: no-repeat;
   -webkit-background-size: cover;
   background-size: cover;
